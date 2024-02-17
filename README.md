@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=venom&color=0:6f99b2,100:143f61&fontColor=bbbbbb&height=225&section=header&text=Hello%20World%21&fontSize=60&animation=fadeIn)](https://github.com/gsimoglou/)
+[![header](https://capsule-render.vercel.app/api?type=venom&color=0:6f99b2,100:143f61&fontColor=ababab&height=225&section=header&text=Hello%20World%21&fontSize=60&animation=fadeIn)](https://github.com/gsimoglou/)
 
 # I am `George Simoglou`!
 
