@@ -3,7 +3,7 @@
 ## I am `George Simoglou`!
 
 ### Beyond the Code 🫱🏻‍🫲🏼
-Guided by the philosophy of `leaving things better than you found them` and `persistence`, I am constantly delving into the realm of web technologies, seeking avenues to enhance my skills in web development, websites/web apps maintenance, databases and server administration. With over a decade of being active in the field, my passion for Computer Science, Networks, and Information Technology fuels my pursuit of challenges to tackle problems, leveraging my expertise while delivering high-quality results.
+Guided by the philosophy of `leaving things better than you found them` and `persistence`, I am constantly delving into the realm of web technologies, seeking avenues to enhance my skills in web development, websites and web app maintenance, databases and server administration. With over a decade of being active in the field, my passion for Computer Science, Networks, and Information Technology fuels my pursuit of challenges to tackle problems, leveraging my expertise while delivering high-quality results.
 
 <br>
 
