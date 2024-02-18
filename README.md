@@ -1,6 +1,6 @@
 [![header](https://capsule-render.vercel.app/api?type=venom&color=0:6f99b2,100:143f61&fontColor=ababab&height=225&section=header&text=Hello%20World%21&fontSize=60&animation=fadeIn)](https://github.com/gsimoglou/)
 
-# I am `George Simoglou`!
+## I am `George Simoglou`!
 
 ### Beyond the Code 🫱🏻‍🫲🏼
 Guided by the philosophy of `leaving things better than you found them` and `persistence`, I am constantly delving into the realm of web technologies, seeking avenues to enhance my skills in web development, websites/web apps maintenance, databases and server administration. With over a decade of being active in the field, my passion for Computer Science, Networks, and Information Technology fuels my pursuit of challenges to tackle problems, leveraging my expertise while delivering high-quality results.
