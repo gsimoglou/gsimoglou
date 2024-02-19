@@ -19,7 +19,7 @@ Guided by the philosophy of `leaving things better than you found them` and `per
 <br>
 
 ### My Tech Toolbox 🛠️
-`Languages` `Frameworks` `Other technologies`
+`Languages` `Frameworks` `Technologies`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
